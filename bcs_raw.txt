@@ -1,0 +1,63 @@
+	housing	nose_cloaca_length	body_weight	bcs
+1	circulation small	11	112.3	3
+2	circulation small	12	146.4	3
+3	circulation small	12.2	160.8	4
+4	circulation small	12	157.5	4
+5	circulation small	11	119.3	4
+6	circulation small	11	146.5	4
+7	circulation small	12	166.7	4
+8	circulation small	12	172.4	4
+9	circulation small	12	173.3	5
+10	circulation small	11.5	171.7	5
+11	circulation small	11.5	177.5	5
+12	circulation small	13.5	213.1	5
+13	circulation small	11.5	139.5	5
+14	circulation small	13	210.8	5
+15	circulation small	13	226	5
+16	circulation small	14	216.6	5
+17	circulation small	12	189.7	5
+18	circulation small	13.5	223.3	5
+19	circulation small	12.5	188.5	5
+20	circulation small	12.7	196.6	5
+21	cold water flow-through	12	146	4
+22	cold water flow-through	12.5	181	5
+23	cold water flow-through	13	190	4
+24	cold water flow-through	12	163	5
+25	cold water flow-through	11.5	138	3
+26	cold water flow-through	11.5	150	4
+27	cold water flow-through	12	174	4
+28	cold water flow-through	12.5	151	3
+29	cold water flow-through	12.5	156	3
+30	cold water flow-through	12.5	157	4
+31	cold water flow-through	13	171	4
+32	cold water flow-through	11	134	3
+33	cold water flow-through	12	134	3
+34	cold water flow-through	13	172	3
+35	cold water flow-through	12.5	153	3
+36	cold water flow-through	12	150	3
+37	cold water flow-through	11	118	3
+38	cold water flow-through	12.5	167	3
+39	cold water flow-through	13	181	4
+40	cold water flow-through	12.5	137	3
+41	cold water flow-through	14	235	5
+42	circulation large	11	111	2
+43	circulation large	10.5	100	2
+44	circulation large	11.5	144	3
+45	circulation large	11	131	3
+46	circulation large	12.5	171	3
+47	circulation large	11.5	166	4
+48	circulation large	12	172	4
+49	circulation large	12	173	4
+50	circulation large	12	179	4
+51	circulation large	12	153	4
+52	circulation large	12.5	229	5
+53	circulation large	11	150	5
+54	circulation large	13.5	227	5
+55	circulation large	13	234	5
+56	circulation large	12	156	5
+57	circulation large	12	194	5
+58	circulation large	12	183	5
+59	circulation large	13	195	5
+60	circulation large	12	165	5
+61	circulation large	NA	83	1
+62	circulation large	11	103	2
